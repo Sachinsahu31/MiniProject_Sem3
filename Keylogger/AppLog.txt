@@ -1,0 +1,153 @@
+[09.12.202123:55:24]
+Hook Started... timer started
+
+[09.12.202123:56:25]
+Mail was not sent. error code: 3
+
+[09.12.202123:56:25]
+<From SendMail> Return Code: 0
+
+[09.12.202123:56:55]
+Mail was not sent. error code: 3
+
+[10.12.202112:09:49]
+Hook Started... timer started
+
+[10.12.202112:10:20]
+Mail was not sent. error code: 3
+
+[10.12.202112:10:20]
+<From SendMail> Return Code: 0
+
+[10.12.202112:18:39]
+Hook Started... timer started
+
+[10.12.202112:19:09]
+Mail was not sent. error code: 3
+
+[10.12.202112:19:09]
+<From SendMail> Return Code: 0
+
+[10.12.202112:21:45]
+Hook Started... timer started
+
+[10.12.202112:22:16]
+Mail was not sent. error code: 3
+
+[10.12.202112:22:16]
+<From SendMail> Return Code: 0
+
+[10.12.202112:24:22]
+Hook Started... timer started
+
+[10.12.202112:24:53]
+Mail was not sent. error code: 3
+
+[10.12.202112:24:53]
+<From SendMail> Return Code: 0
+
+[10.12.202112:25:23]
+Mail was not sent. error code: 3
+
+[10.12.202112:25:54]
+Mail was not sent. error code: 3
+
+[10.12.202112:29:48]
+Hook Started... timer started
+
+[10.12.202112:30:18]
+Mail was not sent. error code: 3
+
+[10.12.202112:30:18]
+<From SendMail> Return Code: 0
+
+[10.12.202112:30:49]
+Mail was not sent. error code: 3
+
+[10.12.202112:57:12]
+Hook Started... timer started
+
+[10.12.202112:57:42]
+Mail was not sent. error code: 3
+
+[10.12.202112:57:42]
+<From SendMail> Return Code: 0
+
+[10.12.202112:58:13]
+Mail was not sent. error code: 3
+
+[10.12.202112:58:44]
+Mail was not sent. error code: 3
+
+[10.12.202112:59:14]
+Mail was not sent. error code: 3
+
+[10.12.202112:59:45]
+Mail was not sent. error code: 3
+
+[10.12.202113:00:16]
+Mail was not sent. error code: 3
+
+[10.12.202113:00:46]
+Mail was not sent. error code: 3
+
+[10.12.202113:01:16]
+Mail was not sent. error code: 3
+
+[10.12.202113:01:47]
+Mail was not sent. error code: 3
+
+[10.12.202113:02:18]
+Mail was not sent. error code: 3
+
+[10.12.202113:02:48]
+Mail was not sent. error code: 3
+
+[10.12.202113:03:19]
+Mail was not sent. error code: 3
+
+[10.12.202113:03:49]
+Mail was not sent. error code: 3
+
+[10.12.202113:04:20]
+Mail was not sent. error code: 3
+
+[10.12.202113:04:50]
+Mail was not sent. error code: 3
+
+[10.12.202113:05:21]
+Mail was not sent. error code: 3
+
+[10.12.202113:05:52]
+Mail was not sent. error code: 3
+
+[10.12.202113:06:22]
+Mail was not sent. error code: 3
+
+[10.12.202113:06:53]
+Mail was not sent. error code: 3
+
+[10.12.202113:07:23]
+Mail was not sent. error code: 3
+
+[10.12.202113:07:54]
+Mail was not sent. error code: 3
+
+[10.12.202113:08:24]
+Mail was not sent. error code: 3
+
+[10.12.202113:08:55]
+Mail was not sent. error code: 3
+
+[10.12.202113:09:25]
+Mail was not sent. error code: 3
+
+[10.12.202113:09:56]
+Mail was not sent. error code: 3
+
+[10.12.202113:10:26]
+Mail was not sent. error code: 3
+
+[10.12.202113:10:57]
+Mail was not sent. error code: 3
+

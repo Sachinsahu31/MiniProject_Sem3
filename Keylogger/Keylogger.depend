@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1639119175 source:c:\users\sachi\onedrive\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"helper.h"
+	"keyconstants.h"
+	"base64.h"
+	"IO.h"
+	"Timer.h"
+	"sendmail.h"
+	"keybhook.h"
+
+1637318425 c:\users\sachi\onedrive\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1637652003 c:\users\sachi\onedrive\documents\keylogger\helper.h
+	<string>
+	<ctime>
+	<sstream>
+	<fstream>
+
+1639119512 c:\users\sachi\onedrive\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1639119578 c:\users\sachi\onedrive\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1639074315 c:\users\sachi\onedrive\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+	<functional>
+
+1639118383 c:\users\sachi\onedrive\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1639074226 c:\users\sachi\onedrive\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"Keyconstants.h"
+	"Timer.h"
+	"sendmail.h"
+

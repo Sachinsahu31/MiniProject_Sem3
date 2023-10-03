@@ -1,0 +1,33 @@
+[10.12.202112:11:34]
+Hook Started... timer started
+
+[10.12.202112:12:05]
+Mail was not sent. error code: 3
+
+[10.12.202112:12:05]
+<From SendMail> Return Code: 0
+
+[10.12.202112:12:36]
+Mail was not sent. error code: 3
+
+[10.12.202112:13:06]
+Mail was not sent. error code: 3
+
+[12.12.202119:52:14]
+Hook Started... timer started
+
+[12.12.202119:52:44]
+Mail was not sent. error code: 3
+
+[12.12.202119:52:45]
+<From SendMail> Return Code: 0
+
+[12.12.202123:15:26]
+Hook Started... timer started
+
+[12.12.202123:15:57]
+Mail was not sent. error code: 3
+
+[12.12.202123:15:57]
+<From SendMail> Return Code: 0
+
