@@ -1,4 +1,6 @@
-# MiniProject_Sem3
+# Mini Project Sem 3
+
+KeyLogger & Decrypter
 
 This project is created by 
 
